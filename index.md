@@ -7,5 +7,5 @@ Currently I'm working on a Gtk based Calculator App Written in the C programming
 
 here is a preview of the project.
 ![Image](calc2.png)
-![Image](pre.webm)
+![Image](pre.mp4)
 
