@@ -5,5 +5,7 @@ Besides that I've also worked as _Senior_ technical adivsor in a major corporati
 
 Currently I'm working on a Gtk based Calculator App Written in the C programming Language, it's still WIP, feel free to check the source code [Here](https://github.com/villayer/Calculator)
 
-![Image](calc1.png)
 here is a preview of the project.
+![Image](calc2.png)
+![Image](pre.webm)
+
